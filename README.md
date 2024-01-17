@@ -21,7 +21,6 @@ I'm Enrico, a computer programming student on a mission to create captivating di
 <img align="left" alt="Android Studio" width="35px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
 <img align="left" alt="MySQL" width="35px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 
-# 
 <!--
 **epellini/epellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
