@@ -2,25 +2,31 @@
 
 I'm Enrico, a computer programming student on a mission to create captivating digital experiences. My journey into the world of coding began about 3 years ago when I made a career changing decision and decided to go back to school. Since then, I've been exploring various forms of software development, with a particular passion for web development, application development.
 
-**Web Development:** I love making beautiful and user-friendly websites. You can find some of my web projects in my repositories.
+🌐 **Web Development:** I love making beautiful and user-friendly websites. You can find some of my web projects in my repositories.
 
-**Application Development:** I enjoy building applications that solve real-world problems. Whether it's a mobile app or a desktop application, I'm always up for the challenge of making software that makes life easier.
+📱 **Application Development:** I enjoy building applications that solve real-world problems. Whether it's a mobile app or a desktop application, I'm always up for the challenge of making software that makes life easier.
 
-**Game Development:** Game development is my creative outlet. I've dabbled in Unity and C# to create fun and interactive games. Check out my game projects to see some of my work.
+🎮 **Game Development:** Game development is my creative outlet. I've dabbled in Unity and C# to create fun and interactive games. Check out my game projects to see some of my work.
 
-**Learning and Growing:** As a student, I'm constantly learning and expanding my skills. I believe that technology has the power to shape our world in a positive way, and I'm excited to be a part of it.
+🔍 **Learning and Growing:** As a student, I'm constantly learning and expanding my skills. I believe that technology has the power to shape our world in a positive way, and I'm excited to be a part of it.
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
-<img align="left" alt="JS" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="JS" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+#
 
+![Enrico's Stats](https://github-readme-stats.vercel.app/api?username=epellini&show_icons=true&theme=dark)
 
 Thanks for stopping by!
-
-Check out my repos ⬇️
-
 
 <!--
 **epellini/epellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
