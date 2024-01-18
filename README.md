@@ -12,8 +12,6 @@ I'm Enrico, a computer programming student on a mission to create captivating di
 
 ### 🧰 Languages and Tools
 
-### 🧰 Languages and Tools
-
 <img align="left" alt="C#" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
 <img align="left" alt="JS" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
