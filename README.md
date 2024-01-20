@@ -1,4 +1,4 @@
-I'm Enrico, a computer programming student on a mission to create captivating digital experiences. My journey into the world of coding began about 3 years ago when I made a career changing decision and decided to go back to school. Since then, I've been exploring various forms of software development, with a particular passion for web development, application development.
+I'm Enrico, a computer programming student on a mission to create digital experiences. My journey into programming began 3 years ago when I made a career changing decision and decided to go back to school. Since then, I've been exploring various forms of software development, with a particular interest for web development and application development.
 
 🌐 **Web Development:** I love making beautiful and user-friendly websites. You can find some of my web projects in my repositories.
 
