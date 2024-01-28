@@ -1,4 +1,5 @@
-I'm Enrico, a computer programming student, and I'm all about creating some cool digital experiences! Three years ago, I went back to school to pursue a career change. Since then, I've been exploring various forms of software development, with a particular interest in web and application development.
+I'm Enrico, a computer programming student, and I'm all about creating some cool digital experiences! 
+Three years ago, I went back to school to pursue a career change. Since then, I've been exploring various forms of software development, with a particular interest in web and application development.
 
 🌐 **Web Development:** I enjoy creating useful and user-friendly websites.
 
