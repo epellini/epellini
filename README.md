@@ -5,7 +5,7 @@ Three years ago, I went back to school to pursue a career change. Since then, I'
 
 📱 **Application Development:** I enjoy building apps that can make life a little bit easier.
 
-🎮 **Game Development:** Game development is my creative outlet. I've dabbled in Unity and C# to create fun and interactive games.
+🎮 **Game Development:** Game development is one of my many creative outlets. I've spent 4 years learning about Unity and C#, making games that I find fun and interactive.
 
 🔍 **Learning and Growing:** As a student, I'm constantly learning and expanding my skills.
 
