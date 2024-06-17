@@ -1,13 +1,10 @@
-I'm Enrico, a computer programming student, and I'm all about creating some cool digital experiences! 
-Three years ago, I went back to school to pursue a career change. Since then, I've been exploring various forms of software development, with a particular interest in web and application development.
+I'm Enrico, a computer programmer based in Ontario, Canada. I started my programming journey by experimenting with Unity creating games, leading me into the world of development.
 
 🌐 **Web Development:** I enjoy creating useful and user-friendly websites.
 
 📱 **Application Development:** I enjoy building apps that can make life a little bit easier.
 
-🎮 **Game Development:** Game development is one of my many creative outlets. I've spent 4 years learning about Unity and C#, making games that I find fun and interactive.
-
-🔍 **Learning and Growing:** As a student, I'm constantly learning and expanding my skills.
+🎮 **Game Development:** Game development is one of my many creative outlets. I've spent 5 years learning about Unity and C#, making games that I find fun and interactive.
 
 ---
 
