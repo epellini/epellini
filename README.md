@@ -1,11 +1,4 @@
-I'm Enrico, a computer programmer based in Ontario, Canada. I started my programming journey by experimenting with Unity creating games, leading me into the world of development.
-
-🌐 **Web Development:** I enjoy creating useful and user-friendly websites.
-
-📱 **Application Development:** I enjoy building apps that can make life a little bit easier.
-
-🎮 **Game Development:** Game development is one of my many creative outlets. I've spent 5 years learning about Unity and C#, making games that I find fun and interactive.
-
+I am a Web Developer located in Ontario, Canada. My journey began with game development in Unity, sparking my passion for programming. I specialize in creating dynamic websites and applications that offer great user experiences.
 ---
 
 ### 🧰 Languages and Tools
