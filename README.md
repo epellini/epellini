@@ -1,10 +1,11 @@
-I am a Web Developer located in Ontario, Canada. My journey began with game development in Unity, sparking my passion for programming. I specialize in creating dynamic websites and applications that offer great user experiences.
+Hey there! I'm a Web Developer located in Ontario, Canada. My journey began with game development in Unity, sparking my passion for programming. I specialize in creating dynamic websites and applications that offer great user experiences.
 ---
 
+## GitHub Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
 ### 🧰 Languages and Tools
