@@ -15,7 +15,12 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/enricopellini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/nricop7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Three years ago I returned to college to study programming, building expertise in C# and JavaScript. My experiences in hackathons and tech support have sharpened my problem-solving skills, and I now develop web applications that make a meaningful impact as I pursue my next opportunity to begin a career in tech.</h3>**
+ **<h3 align="left">  I'm Enrico, a web developer with 4 years of experience
+              creating practical, mobile-friendly websites and crafting
+              strategic solutions to help businesses stand out. I work closely
+              with clients to design and launch websites and brands that not
+              only look great but also set them up for long-term success by
+              reaching the right audience and driving growth.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
