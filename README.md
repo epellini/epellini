@@ -15,7 +15,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/enricopellini" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.instagram.com/nricop7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm a developer with 4 years of experience building websites and web applications that help businesses stand out. I specialize sites that help small businesses attract the right audience and grow. In my free time, I enjoy building apps and games in Unity.</h3>**
+ **<h3 align="left">I'm a full stack web developer with 4 years of experience building applications that help small businesses stand out. In my free time, I enjoy making games in Unity and reading sci-fi novels.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
